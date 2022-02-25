@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The supremacy debated, or, The authority of Parliaments, formerly owned by Romish clergy to be the supreamest power</title>
+            <author>W. R., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56989</idno>
+            <idno type="STC">Wing R100</idno>
+            <idno type="STC">ESTC R18239</idno>
+            <idno type="EEBO-CITATION">13410987</idno>
+            <idno type="OCLC">ocm 13410987</idno>
+            <idno type="VID">99418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 473:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The supremacy debated, or, The authority of Parliaments, formerly owned by Romish clergy to be the supreamest power</title>
+                  <author>W. R., Gent.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W. R. Gent.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99418:1"/>
+            <head>THE SUPREMACY DEBATED: OR, The Authority of Parliaments (formerly owned by <hi>Romiſh</hi> Clergy) to be the Supreameſt Power.</head>
+            <p>IN caſe the Owning of the Authority of a Parliament to be the ſupreameſt Power in a King<g ref="char:EOLhyphen"/>dom be traiterous or heretical amongſt Papiſts, <hi>Rome</hi>'s own Church was the firſt Founder of this Doctrine, and frequently practiſed the ſame, both before, and until the Refor<g ref="char:EOLhyphen"/>mation of Religion within this Realm:</p>
+            <p>For <hi>Henry de Bracton,</hi> one of their famous Lawyers of this Nation, who flouriſh'd <hi>Anno</hi> 1260. in the Reign of King <hi>Henry</hi> III. reſolves thus:</p>
+            <p>
+               <hi>The King hath a Superior, to wit, God; alſo the Law, by which he is made a King;
+<note place="margin">II. Bracton <hi>his Words touch<g ref="char:EOLhyphen"/>ing the Su<g ref="char:EOLhyphen"/>pream Power.</hi>
+                  </note> likewiſe his Court, namely, the Earls and Barons; becauſe they are called</hi> Comites, <hi>as being the King's Fellows (or Companions:) And he who hath a Fellow (or Aſſociate) hath a Maſter. And therefore, if the King ſhall be without a Bridle, that is, without Law, they ought to impoſe a Bridle on him, unleſs they them<g ref="char:EOLhyphen"/>ſelves, with the King, ſhall be without Bridle; and then the Subject ſhall cry out, and ſay,</hi> O Lord Jeſus Chriſt, do thou bind their Jaws with Bitt and Bridle, <hi>&amp;c.</hi>
+            </p>
+            <p>Here is a true Reſolution, that the Law, with the Earls and Barons aſſembled in Parliament, are above the King, and ought to bridle him when he exorbitates from the Law; which this fa<g ref="char:EOLhyphen"/>mous Lawyer alſo ſeconds, in ſome ſort, <hi>lib.</hi> 3. <hi>cap.</hi> 9. <hi>fol.</hi> 107.</p>
+            <p>This Law was ſo authentick in thoſe Days, and in After-Ages, that in their great Council of <hi>Baſil. Anno</hi> 1431. when this mighty Queſtion was debated, whether a Pope were above a General Council, or a Council above him; at laſt it was reſolv'd, ſuch a Council was above the Pope; upon this Reaſon, among others,</p>
+            <p>
+               <q>The Pope is in the Church, as a King in his Kingdom;
+<note place="margin">The Reaſon that was gi<g ref="char:EOLhyphen"/>ven at the Council of <hi>Ba<g ref="char:EOLhyphen"/>ſil,</hi> for a Ge<g ref="char:EOLhyphen"/>neral Council to be above the Pope, ſerveth for a Parlia<g ref="char:EOLhyphen"/>ment to be a<g ref="char:EOLhyphen"/>bove a King.</note> and for a King to be of more Autho<g ref="char:EOLhyphen"/>rity than his Kingdom, it were too abſurd: <hi>Ergo,</hi> Neither ought the Pope to be above the Church. In every well order'd Kingdom it ought eſpecially to be deſired, that the whole Realm ſhould be of more Authority than the King; which, if it happen'd contrary, were not to be called a Kingdom, but a Tyranny. And like as oftentimes Kings which do wickedly go<g ref="char:EOLhyphen"/>vern the Commonwealth, and expreſs Cruelty, are deprived of their Kingdoms; even ſo it is not to be doubted, but that the Biſhop of <hi>Rome</hi> may be depoſed by the Church; that is to ſay, by the General Council. At the Beginning (as <hi>Cicero,</hi> in his Offices, ſaith) it is certain, there was a Time when as the People lived without Kings: But afterwards, when Lands and Poſſeſ<g ref="char:EOLhyphen"/>ſions began to be divided, according to the cuſtom of every Nation, then were Kings ordained, for no other Cauſes, but only to execute Juſtice; for when, at the Beginning, the Common Peo<g ref="char:EOLhyphen"/>ple were oppreſſed by rich and mighty Men, they ran by and by to ſome vertuous and good Man, which ſhould defend the Poor from Injury, and ordain Laws whereby the Rich and Poor might dwell together. But when as yet, under the Rule of Kings, the Poor were oftentimes oppreſſed, Laws were ordained and inſtituted; the which ſhould judge, neither for Hatred, nor Favour; and give like Ear to the Poor, as Rich: Whereby we underſtand and know, not only the People, but alſo the King to be ſubject to the Law; for if we do ſee a King to con<g ref="char:EOLhyphen"/>temn and deſpiſe the Laws, violently rob and ſpoil his Subjects, deſtowr Virgins, raviſh Ma<g ref="char:EOLhyphen"/>trons, and do all things licentiouſly and temeriouſly; do not the Nobles of the Kingdom aſ<g ref="char:EOLhyphen"/>ſemble together, depoſing him from his Kingdom, ſet up another in his place, which ſhall ſwear to rule and govern uprightly, and be obedient unto the Laws? Verily, As Reaſon doth per<g ref="char:EOLhyphen"/>ſwade, even ſo doth the Uſe thereof alſo teach us. It ſeemeth alſo agreeable unto Reaſon, that the ſame ſhould be done in the Church, that is in the Council; which is done in any Kingdom. And ſo is this ſufficiently apparent, that the Pope is ſubject unto the Council.</q>
+            </p>
+            <p>Thus the Biſhop of <hi>Burgen,</hi> Ambaſſador of <hi>Spain,</hi> the Abbot of <hi>Scotland,</hi> and <hi>Thomas de Car<g ref="char:EOLhyphen"/>cellis,</hi> a famous Divine, reaſoned in this Council, which voted with them.</p>
+            <p>Here you have a full Reſolution of this great Council (which the Papiſts call a General One, being approved of by the <hi>Grecian</hi> and <hi>Roman</hi> Emperors, and moſt Chriſtian Kings and States, and our King amongſt others) That the Kingdom, in Parliament aſſembled, is above the King, as a General Council is paramount the Pope; which <hi>Aeneas Silvius</hi> (who afterwards became Pope) and <hi>Surius</hi> (one of <hi>Rome</hi>'s Jeſuits) do manifeſt by theſe five Reaſons.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe Kings were firſt created and inſtituted by their Kingdoms and People;
+<note place="margin">Five Reaſons ſhewing a Par<g ref="char:EOLhyphen"/>liament to be above a King.</note> not their Kingdoms and People by them.</p>
+            <p>
+               <hi>Secondly,</hi> Becauſe they were ordained only for Kingdoms and People's Service and Welfare, not their Kingdoms and People for them.</p>
+            <p>
+               <hi>Thirdly,</hi> Becauſe their Kingdoms and People, as they at firſt created, ſo they ſtill limit and confirm their Royal Juriſdiction by Laws; to which they are, and ought to be ſubject.</p>
+            <p>
+               <hi>Fourthly,</hi> Becauſe they oblige them by ſolemn Oath to rule accordingly, and to be obedient unto the Laws.</p>
+            <p>
+               <hi>Laſtly,</hi> Becauſe they have power to depoſe their Kings, in caſe they contemn the Laws, and violently rob and ſpoil their Subjects.</p>
+            <pb n="2" facs="tcp:99418:2"/>
+            <p> Now it is to be wonder'd why Papiſts will blame Proteſtants to defend their Laws and Liber<g ref="char:EOLhyphen"/>ties, this being their own Doctrine, concerning the Power, Superiority and Privilege of Par<g ref="char:EOLhyphen"/>liaments, Peers and Kingdoms over their Kings; they having leaſt ground, of all others, to tax our Lords and Commons with Uſurpation upon the Crown, it having been the ancient Courſe of this Kingdom, to examine the Acts of their Kings and Princes, whether they ruled according to the Laws eſtabliſhed, or no.</p>
+            <p>For inſtance-ſake,
+<note place="margin">Kings before the Conqueſt depoſed for ir<g ref="char:EOLhyphen"/>regular Go<g ref="char:EOLhyphen"/>vernment.</note> we ſhall give you a ſhort Touch, <hi>Anno</hi> 454. King <hi>Vortigern,</hi> when he had reigned ſix Years, for his Negligence, and evil Government (for which <hi>Woſtine,</hi> then Archbiſhop of <hi>London,</hi> told him, he had endanger'd both his Soul and Crown) was depoſed from his Crown by his Subjects (the <hi>Britains</hi>) general Conſent, impriſon'd; and his Son <hi>Vortimer</hi> choſen, and crowned King in his ſtead: After whoſe untimely Death (being poyſon'd by <hi>Rovena) Vortigern</hi> was again reſtored by them to the Crown; yet, at laſt, for his notorious Sins, by the juſt, re<g ref="char:EOLhyphen"/>venging Hand of God, conſumed to Aſhes by Fire, kindled by <hi>Augelius</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ter,</hi> as Heaven's Miniſters to execute its Wrath.</p>
+            <p>
+               <hi>Sigibert</hi> King of the <hi>Weſt-Saxons,</hi> ſetting aſide all Laws, and Rules of true Piety, wallowing in all ſenſual Pleaſures, uſing Exactions and Cruelties upon his Subjects, and ſlaying the Earl <hi>Cumbra,</hi> his faithful Counſellor, for admoniſhing him friendly of his vicious Life; the Peers and Commons thereupon, ſeeing their State and Lives in danger, and the Laws broken by him, aſ<g ref="char:EOLhyphen"/>ſembled and roſe up in Arms againſt him, and depoſed him; who after died in a Wood, where he fled, being ſlain by his Swine Herd: So <hi>Kenwolfe</hi> was made King in his ſtead, <hi>Anno</hi> 756.</p>
+            <p>
+               <hi>Ofred</hi> King of <hi>Northumberland,</hi> for his evil Government, was expelled by his Subjects, and deprived of all Kingly Authority, in the Year 789.</p>
+            <p>So <hi>Ethelred</hi> (the Son of <hi>Molo</hi>) his next Succeſſor, being revoked from Exile, and reſtored to the Crown, of which he was formerly deprived; thereupon murthering divers of his Nobles and Subjects, to ſecure his Crown, did ſo offend his Subjects thereby, that in the Year 794. they roſe up in Arms againſt him, and ſlew him at <hi>Cobre.</hi>
+            </p>
+            <p>
+               <hi>Ceolwolfe</hi> King of <hi>Merica, Anno</hi> 820. (after one Year's Reign) was, for his Miſ-Government, expulſed by his People; abandoning his Crown and Country, for the ſafety of his Life.</p>
+            <p>The Crown of <hi>England</hi> hath oftentimes been ſetled upon thoſe, who were not next Heirs to it: Witneſs the Electing and Crowning of <hi>Edward,</hi> who was illegitimate; and putting by <hi>Ethelred,</hi> the right Heir, after <hi>Edgar</hi>'s Deceaſe, <hi>Anno</hi> 975.</p>
+            <p>The Electing and Crowning of <hi>Canutus,</hi> a meer Foreigner, in oppoſition to <hi>Edward,</hi> the right Heir to King <hi>Ethelred, Anno</hi> 1016.</p>
+            <p>Alſo the Electing of <hi>Harold</hi> and <hi>Hardiknute,</hi> both elected and crowned Kings ſucceſſively, with<g ref="char:EOLhyphen"/>out Title; <hi>Edmond</hi> and <hi>Alfred,</hi> the right Heirs, being diſpoſſeſſed; the latter impriſoned, and tor<g ref="char:EOLhyphen"/>mented to death, <hi>An.</hi> 1036. <hi>&amp;</hi> 1040. yet after <hi>Hardiknute</hi>'s Deceaſe, <hi>Edward</hi> (ſurnamed the Con<g ref="char:EOLhyphen"/>feſſor) was choſen King by Conſent of Parliament; and the <hi>Engliſh</hi> Nobility, upon the Death of King <hi>Harold,</hi> enacted, that none of the <hi>Daniſh</hi> Blood ſhould any more reign over them.</p>
+            <p>After this King's Death, <hi>Edgar Etheling,</hi> who had the beſt Title, was rejected, and <hi>Harold</hi> elected and crowned King.</p>
+            <p>So,
+<note place="margin">Kings after the Conqueſt not ſucceſſive<g ref="char:EOLhyphen"/>ly ſucceeding.</note> after <hi>William</hi> the Conqueror's Deceaſe, <hi>Anno</hi> 1087. <hi>Robert,</hi> the elder Brother, was put aſide, and <hi>William Rufus</hi> elected and crowned.</p>
+            <p>After whoſe Death, <hi>Henry</hi> I. his younger Brother (though not next Heir) was elected King by the Clergy, Nobles and Commons (who refuſed to admit of any King, but with Capitulations and Caveats to their own liking) upon fair Promiſes for reforming bad and rigorous Laws, Remiſſion of Taxes exacted on the Subjects, and Puniſhments of the chief Cauſers of them; and a ſolemn Oath to frame good Laws, and ratifie St. <hi>Edward</hi>'s Laws: All which he really performed.</p>
+            <p>So, after the Death of <hi>Richard</hi> I. <hi>John</hi> Earl of <hi>Morton</hi> was elected and crowned King, his Nephew <hi>Arthur,</hi> the right Heir, diſ-inherited.</p>
+            <p>He dying, his Son <hi>Henry</hi> III. was elected and crowned, and <hi>Lewis</hi> (made King in his Father's Life by the Barons) removed.</p>
+            <p>
+               <hi>Edward</hi> II.
+<note place="margin">
+                  <hi>King</hi> Edw. II. <hi>depoſed.</hi>
+               </note> their natural King of <hi>England,</hi> was depoſed by Biſhops, Peers and Commons in Parliament, <hi>Anno</hi> 1327.</p>
+            <p>King <hi>Richard</hi> II.
+<note place="margin">King <hi>Rich. II.</hi> depoſed.</note> for ſundry Miſdemeanours objected againſt him in Parliament, and for the Breach of his Coronation-Oath, was depoſed by Parliament, and <hi>Henry</hi> IV. placed in his ſtead, <hi>Anno</hi> 1392.</p>
+            <p>
+               <hi>Henry</hi> VI.
+<note place="margin">King, Queen, and Prince of <hi>Wales</hi> put aſide by Par<g ref="char:EOLhyphen"/>liament.</note> Queen <hi>Margaret,</hi> and Prince <hi>Edward</hi> their Son, were by a Parliament put by, and <hi>Edward</hi> IV. made King: After which, King <hi>Henry</hi> was by another Parliament re-crowned, and re-eſtabliſhed in his Kingdom, and <hi>Edward</hi> IV. declared a Traitor: But <hi>Edward</hi> (not long after) taking King <hi>Henry</hi> Priſoner, cauſed him to be murthered in the Tower. Another Parliament, <hi>Anno</hi> 1472. abrogated King <hi>Henry</hi>'s Laws, and re-eſtabliſhed King <hi>Edward.</hi>
+            </p>
+            <p>All which have Parliaments (before the Reformation in this Kingdom) done, none daring to queſtion their Authority, but complying with them.</p>
+            <byline>By <hi>W. R.</hi> Gent.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Miller,</hi> at the <hi>Gilded Acron</hi> in St. <hi>Paul</hi>'s Church-Yard, 1689.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>Where Gentlemen, and others, may be furniſhed with moſt ſorts of Acts of Parliament, and other State-Matters: As alſo Books of Divinity, Church-Government, and Sermons on moſt Occaſions, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
